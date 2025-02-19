@@ -1,0 +1,55 @@
+### IntelliJ IDEA ###
+out/
+!**/src/main/**/out/
+!**/src/test/**/out/
+
+### Eclipse ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+bin/
+!**/src/main/**/bin/
+!**/src/test/**/bin/
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+### VS Code ###
+.vscode/
+
+### Mac OS ###
+.DS_Store
+
+AndrMask/
+AppData/Local/ElevatedDiagnostics/
+AppData/Local/Logg/
+AppData/Local/Microsoft/Windows/INetCache/Content.IE5/
+AppData/Local/Microsoft/Windows/INetCache/Low/Content.IE5/
+AppData/Local/Microsoft/Windows/Temporary Internet Files/
+AppData/Local/Packages/BethesdaSoftworks.Fallout4-PC_3275kfvn8vcwc/
+AppData/Local/Programdata/
+AppData/Local/Steam/htmlcache/WidevineCdm/
+AppData/Roaming/Microsoft/Windows/Start Menu/Programmer/
+Cookies/
+Documents/Intern video/
+Documents/Min musikk/
+Documents/Mine bilder/
+Lokale innstillinger/
+Maler/
+Mine dokumenter/
+OneDrive - USN/Skrivebord/games/MSSQL16.MSSQLSERVER02/MSSQL/
+Programdata/
+Recent/
+SendTo/
+Skrivere/
+Start-meny/
+.VirtualBox/
+.android/
